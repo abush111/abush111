@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Flutter and React js projects<br>🤔: I'm looking for jobs as a Frontend developer for both android and web!<br>
+🔭 I'm currently working  As Fullstack<br>🤔: 🤔 I'm looking for jobs as a Full Stack Developer!<br>
 
 
 ## 🌐 Socials:
